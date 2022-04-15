@@ -2,6 +2,7 @@
   template:: Matter
   template-including-parent:: false
   id:: 8e893cb1-0409-4989-83b9-8a69115583fd
+  collapsed:: true
 	- #+BEGIN_NOTE
 	  Below, you can create a linked database with only the resources used for this subject.
 	  #+END_NOTE
@@ -75,6 +76,7 @@
   template:: Schedule
   template-including-parent:: false
   id:: 6a9b0ae4-8c78-4b52-80a9-ea26f3662002
+  collapsed:: true
 	- Subject:: [[Matter 1]] 
 	  Type:: #homework 
 	  Status:: #Not_started
@@ -126,6 +128,7 @@
   template:: Stint
   template-including-parent:: false
   id:: 53324c29-c09a-4f87-9916-b53ab38487a3
+  collapsed:: true
 	- Subject:: [[Matter 1]] 
 	  Submission:: [[March 1st, 2022]] 22:58
 	  File:: 
@@ -154,6 +157,7 @@
   template:: Apprenticeship element
   template-including-parent:: false
   id:: 65ff128e-e3fc-4174-9984-65623f4452d9
+  collapsed:: true
 	- Category:: #Activity_roadmap #Instrument #Session_material
 	  Status:: #Not_started
 	  Date:: [[March 1st, 2022]] 22:58
@@ -177,6 +181,7 @@
   template:: Material
   template-including-parent:: false
   id:: 3d7a74c5-4bff-423d-ac9f-d1bf6b2132f4
+  collapsed:: true
 	- Subject:: [[Matter 1]] 
 	  Type:: #element #file
 	  Submission:: [[March 1st, 2022]] 22:58
@@ -201,6 +206,7 @@
   template:: Classtime
   template-including-parent:: false
   id:: 504e8349-b466-4352-a5ff-f03ba531b21d
+  collapsed:: true
 	- Subject:: [[Matter 1]] 
 	  Type:: #classwork #classnote 
 	  Status:: #Open #Closed
@@ -221,4 +227,3 @@
 	- # Content
 	  heading:: true
 	-
-- id:: 1a1c4940-7f07-42ac-979f-8cc775cd373f
