@@ -13,11 +13,11 @@
 - # Class workflow
 - | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
   |---|---|---|---|---|
-  | 7-9am FREE | 7-9am FREE | 7-9am FREE | 7-9am FREE | 7-9am FREE |
-  | 9-11am FREE | 9-11am FREE | 9-11am FREE | 9-11am FREE | 9-11am FREE |
+  | 7-9am FREE | 7-9am EDUCATIONAL ADMINISTRATION AND LEARNING COMMUNITIES | 7-9am FREE | 7-9am FREE | 7-9am FREE |
+  | 9-11am ACADEMIC WRITING ESSAY | 9-11am FREE | 9-11am FREE | 9-11am FREE | 9-11am FREE |
   | 11-1pm FREE | 11-1pm FREE | 11-1pm FREE | 11-1pm FREE | 11-1pm FREE |
   | 1-3pm NOON | 1-3pm NOON | 1-3pm NOON | 1-3pm NOON | 1-3pm NOON |
-  | 3-5pm FREE | 3-5pm FREE | 3-5pm FREE | 3-5pm FREE | 3-5pm FREE |
+  | 3-5pm SEMANTICS AND PRAGMATICS | 3-5pm FREE | 3-5pm FREE | 3-5pm FREE | 3-5pm FREE |
   | 5-7pm FREE | 5-7pm FREE | 5-7pm FREE | 5-7pm FREE | 5-7pm FREE |
   | 7-9pm FREE | 7-9pm FREE | 7-9pm FREE | 7-9pm FREE | 7-9pm FREE |
 -
