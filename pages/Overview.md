@@ -5,8 +5,6 @@
 	- [[Educational administration and learning comunities]]
 	- [[Applied linguistic in communicative situations]]
 	- [[Trabajo de integración]]
-	- dd
-	-
 -
 - # Data
 - | **Name** | **Target** | **Status** | **Date** | **File** |
