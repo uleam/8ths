@@ -91,7 +91,6 @@
 		  collapsed:: true
 			- #Matter1 #Matter2
 		- File
-		  collapsed:: true
 			- #+BEGIN_SRC html
 			  <iframe src=" " width="600" height="400"></iframe>
 			  #+END_SRC
